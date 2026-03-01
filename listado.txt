@@ -7,3 +7,5 @@ Añádete como alumno/a y pon tus apellidos, nombre pero pon un guión (-) para 
 Alumnado (Apellidos, Nombre):
 -Ibáñez García, Juan Rafael
 -Andueza Soria, Isaac
+-Vera Ferron, Juan Jose
+
