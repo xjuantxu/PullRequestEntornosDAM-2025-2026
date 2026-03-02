@@ -8,4 +8,4 @@ Alumnado (Apellidos, Nombre):
 -Ibáñez García, Juan Rafael
 -Andueza Soria, Isaac
 -Vera Ferron, Juan Jose
-
+-Erencia Luque, Juan
